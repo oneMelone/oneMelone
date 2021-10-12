@@ -1,2 +1,1 @@
-- Hi, I’m @oneMelone
-- Keeping Up With Me!
+Tes pas tout seul
